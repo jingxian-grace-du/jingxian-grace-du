@@ -14,7 +14,7 @@ An MSc dissertation project examining next-week high-volatility classification a
 
 A leakage-aware credit-default modelling project comparing Logistic Regression, Random Forest and XGBoost. It uses group-aware data splitting, training-only preprocessing, grouped cross-validation, threshold analysis, bootstrap uncertainty estimates and SHAP-based interpretation.
 
-### [AI-Assisted Language Learning System](https://github.com/jingxian-grace-du/english-oral-diary)
+### [AI-Assisted Language Learning System](https://github.com/jingxian-grace-du/ai-assisted-language-learning-system)
 
 A privacy-first, human-in-the-loop learning system with explicit requirements, schema-defined data contracts, traceable state transitions, automated validation and calibrated review. The first private end-to-end Shadow Mode cycle has been completed while real diary content remains outside the public repository.
 
