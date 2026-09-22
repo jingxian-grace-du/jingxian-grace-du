@@ -1,4 +1,4 @@
-# Hi, I'm Jingxian (Grace) Du
+# Hi, I'm Grace Du
 
 **MSc Financial Data Science | Financial risk, data analytics and operations**
 
@@ -14,6 +14,10 @@ An MSc dissertation project examining next-week high-volatility classification a
 
 A leakage-aware credit-default modelling project comparing Logistic Regression, Random Forest and XGBoost. It uses group-aware data splitting, training-only preprocessing, grouped cross-validation, threshold analysis, bootstrap uncertainty estimates and SHAP-based interpretation.
 
+### [AI-Assisted Language Learning System](https://github.com/jingxian-grace-du/english-oral-diary)
+
+A privacy-first, human-in-the-loop learning system with explicit requirements, schema-defined data contracts, traceable state transitions, automated validation and calibrated review. The first private end-to-end Shadow Mode cycle has been completed while real diary content remains outside the public repository.
+
 ## Skills and domain experience
 
 - **Data and modelling:** Python, pandas, NumPy, scikit-learn, XGBoost, statistical evaluation and data visualisation
@@ -25,7 +29,7 @@ A leakage-aware credit-default modelling project comparing Logistic Regression, 
 
 - Developing a portfolio at the intersection of finance, analytics and responsible machine learning
 - Translating financial-services experience into practical data, risk and operations projects
-- Consolidating an AI-assisted language-learning workflow into an auditable future portfolio project
+- Developing the AI-assisted language learning system through governed testing and privacy-safe evaluation
 
 ## Connect
 
